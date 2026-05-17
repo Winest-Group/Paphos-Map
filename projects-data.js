@@ -1,0 +1,78 @@
+// נתוני פרויקטים לדוגמה - יוחלפו בנתונים אמיתיים מ-Supabase בשלב 2
+const PROJECTS_DATA = [
+    {
+        id: 1,
+        name: "Aphrodite Sea View Residences",
+        developer: "Pafilia Properties",
+        area: "Kato Paphos",
+        coordinates: [34.7561, 32.4112],
+        property_types: ["דירת 2 חדרים", "דירת 3 חדרים", "פנטהאוז"],
+        starting_price: 285000,
+        currency: "EUR",
+        delivery_date: "Q4 2027",
+        drive_link: "https://drive.google.com/drive/folders/example1",
+        developer_website: "https://pafilia.com",
+        notes: "מטרים בודדים מהים, בריכה משותפת, מתאים גם לתושב חוץ (Permanent Residency)",
+        status: "active"
+    },
+    {
+        id: 2,
+        name: "Universal Heights",
+        developer: "Leptos Estates",
+        area: "Universal",
+        coordinates: [34.7716, 32.4242],
+        property_types: ["דירת 1 חדר", "דירת 2 חדרים", "דירת 3 חדרים"],
+        starting_price: 215000,
+        currency: "EUR",
+        delivery_date: "Q2 2027",
+        drive_link: "https://drive.google.com/drive/folders/example2",
+        developer_website: "https://leptosestates.com",
+        notes: "קרוב לאוניברסיטה ולמרכז המסחרי, השכרה קלה לסטודנטים",
+        status: "active"
+    },
+    {
+        id: 3,
+        name: "Chloraka Bay Villas",
+        developer: "Cybarco Development",
+        area: "Chloraka",
+        coordinates: [34.7950, 32.4197],
+        property_types: ["וילה 3 חדרים", "וילה 4 חדרים", "וילה 5 חדרים"],
+        starting_price: 520000,
+        currency: "EUR",
+        delivery_date: "Q1 2028",
+        drive_link: "https://drive.google.com/drive/folders/example3",
+        developer_website: "https://cybarco.com",
+        notes: "וילות פרטיות עם בריכה, נוף לים, חניה ל-2 רכבים",
+        status: "active"
+    },
+    {
+        id: 4,
+        name: "Coral Bay Marina Suites",
+        developer: "Aristo Developers",
+        area: "Coral Bay",
+        coordinates: [34.8569, 32.3464],
+        property_types: ["סטודיו", "דירת 2 חדרים"],
+        starting_price: 175000,
+        currency: "EUR",
+        delivery_date: "Q3 2026",
+        drive_link: "https://drive.google.com/drive/folders/example4",
+        developer_website: "https://aristodevelopers.com",
+        notes: "אזור תיירותי פופולרי, פוטנציאל השכרה לטווח קצר",
+        status: "on_hold"
+    },
+    {
+        id: 5,
+        name: "Tala Hills Boutique",
+        developer: "Korantina Homes",
+        area: "Tala",
+        coordinates: [34.8159, 32.4214],
+        property_types: ["וילה 3 חדרים", "וילה 4 חדרים"],
+        starting_price: 445000,
+        currency: "EUR",
+        delivery_date: "Q4 2026",
+        drive_link: "https://drive.google.com/drive/folders/example5",
+        developer_website: "https://korantinahomes.com",
+        notes: "כפר שקט בגבעות, נוף פנורמי, קהילה קטנה של 12 וילות בלבד",
+        status: "sold_out"
+    }
+];
