@@ -136,7 +136,8 @@ export async function extractGPS(url) {
 }
 
 // CLI: process URLs from argv or stdin (one per line)
-const isMain = process.argv[1] && import.meta.url.endsWith('/extract-gps.js');
+import { fileURLToPath } from 'url';
+const isMain = process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
 if (isMain) {
     const urls = process.argv.slice(2);
     if (urls.length === 0) {
