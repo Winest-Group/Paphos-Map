@@ -85,9 +85,44 @@ async function resolvePlusCode(code) {
     return geocodeAddress(code);
 }
 
+async function followRedirect(url) {
+    return new Promise((resolve, reject) => {
+        const req = https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+            if ([301, 302, 303, 307, 308].includes(res.statusCode) && res.headers.location) {
+                return resolve(res.headers.location);
+            }
+            resolve(null);
+        });
+        req.on('error', reject);
+        req.setTimeout(20000, () => { req.destroy(); resolve(null); });
+    });
+}
+
 export async function extractGPS(url) {
     const html = await fetchText(url);
     let res;
+
+    // 0. maps.app.goo.gl short URLs — follow redirect to get full coords URL
+    const shortUrl = html.match(/https?:\/\/maps\.app\.goo\.gl\/[A-Za-z0-9]+/);
+    if (shortUrl) {
+        try {
+            const fullUrl = await followRedirect(shortUrl[0]);
+            if (fullUrl) {
+                const dec = fullUrl.match(/!3d(-?[0-9.]+)!4d(-?[0-9.]+)/);
+                if (dec) return { source: 'goo_gl_redirect', lat: +dec[1], lng: +dec[2] };
+                const atCoords = fullUrl.match(/@(-?3[0-9]\.[0-9]+),(-?3[0-9]\.[0-9]+)/);
+                if (atCoords) return { source: 'goo_gl_at', lat: +atCoords[1], lng: +atCoords[2] };
+                const searchCoords = fullUrl.match(/maps\/search\/(-?3[0-9]\.[0-9]+),\+?(-?3[0-9]\.[0-9]+)/);
+                if (searchCoords) return { source: 'goo_gl_search', lat: +searchCoords[1], lng: +searchCoords[2] };
+                const placeDMS = fullUrl.match(/maps\/place\/[^/]*?(\d+)[°%C2B0]+(\d+)['%]+([\d.]+)[%"]+([NS])[\+%20]+(\d+)[°%C2B0]+(\d+)['%]+([\d.]+)[%"]+([EW])/);
+                if (placeDMS) {
+                    const lat = (+placeDMS[1]) + (+placeDMS[2])/60 + (+placeDMS[3])/3600;
+                    const lng = (+placeDMS[5]) + (+placeDMS[6])/60 + (+placeDMS[7])/3600;
+                    return { source: 'goo_gl_dms', lat: placeDMS[4]==='S'?-lat:lat, lng: placeDMS[8]==='W'?-lng:lng };
+                }
+            }
+        } catch {}
+    }
 
     // 1. JSON-LD style: "latitude":"34.X" and "longitude":"32.X"
     const lat1 = html.match(/"latitude"\s*:\s*"?(-?3[0-9]\.[0-9]+)"?/);
@@ -130,6 +165,20 @@ export async function extractGPS(url) {
         const addr = decodeURL(addrMatch[1]).replace(/\+/g, ' ');
         const geocoded = await geocodeAddress(addr);
         if (geocoded) return { source: 'address_geocoded', lat: geocoded.lat, lng: geocoded.lng, hint: addr };
+    }
+
+    // 7. Standalone lat,lng in HTML near each other (Pafilia hotspot widget style)
+    const lats = [...html.matchAll(/\b(3[4-5]\.[0-9]{4,10})\b/g)];
+    const lngs = [...html.matchAll(/\b(3[2-3]\.[0-9]{4,10})\b/g)];
+    if (lats.length > 0 && lngs.length > 0) {
+        // Find a lat and lng within 200 chars of each other
+        for (const latM of lats) {
+            for (const lngM of lngs) {
+                if (Math.abs(latM.index - lngM.index) < 200) {
+                    return { source: 'standalone', lat: +latM[1], lng: +lngM[1] };
+                }
+            }
+        }
     }
 
     return { source: 'NOT_FOUND', lat: null, lng: null };

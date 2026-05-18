@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Viewpoint Hills",
+    "area": "Peyia",
+    "url": "https://www.aristodevelopers.com/developments/viewpoint-hills-villas-for-sale-peyia-cyprus",
+    "source": "data_attr",
+    "lat": 34.880722,
+    "lng": 32.361194
+  },
+  {
+    "name": "Zephyros Village 3",
+    "area": "Mandria",
+    "url": "https://www.aristodevelopers.com/developments/mandria-cyprus-property-paphos-zephyros-village-3",
+    "source": "data_attr",
+    "lat": 34.709833,
+    "lng": 32.529861
+  },
+  {
+    "name": "Pelagos Beachfront Villas",
+    "area": "Kato Paphos",
+    "url": "https://www.aristodevelopers.com/developments/beachfront-property-paphos-pelagos",
+    "source": "data_attr",
+    "lat": 34.788139,
+    "lng": 32.400278
+  },
+  {
+    "name": "Villa Superior",
+    "area": "Peyia",
+    "url": "https://www.aristodevelopers.com/developments/seaside-villa-superior-paphos-cyprus",
+    "source": "data_attr",
+    "lat": 34.881556,
+    "lng": 32.362472
+  },
+  {
+    "name": "Azalea Villas",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/city-centre-villas-azalea-paphos-cyprus",
+    "source": "data_attr",
+    "lat": 34.768361,
+    "lng": 32.431333
+  },
+  {
+    "name": "Aquamarine Coastal Villas",
+    "area": "Kato Paphos",
+    "url": "https://www.aristodevelopers.com/developments/seaside-villas-aquamarine-coastal-paphos-cyprus",
+    "source": "data_attr",
+    "lat": 34.73474722,
+    "lng": 32.45472222
+  },
+  {
+    "name": "Pearl Park Residences",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/pearl-park-residences",
+    "source": "data_attr",
+    "lat": 34.764889,
+    "lng": 32.433167
+  },
+  {
+    "name": "Onero Residences",
+    "area": "Kato Paphos",
+    "url": "https://www.aristodevelopers.com/developments/onero-residences-property-for-sale-kato-paphos",
+    "source": "data_attr",
+    "lat": 34.7583583,
+    "lng": 32.4202917
+  },
+  {
+    "name": "Galaxy Residences",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/galaxy-residences",
+    "source": "data_attr",
+    "lat": 34.786243,
+    "lng": 32.445114
+  },
+  {
+    "name": "Angelonia Gardens 2",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/angelonia-gardens-2",
+    "source": "data_attr",
+    "lat": 34.769833,
+    "lng": 32.426233
+  },
+  {
+    "name": "Serenity Court",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/serenity-court",
+    "source": "data_attr",
+    "lat": 34.767603,
+    "lng": 32.437636
+  },
+  {
+    "name": "Meteora Residential Development",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/meteora-residential-development",
+    "source": "data_attr",
+    "lat": 34.770853,
+    "lng": 32.427203
+  },
+  {
+    "name": "Andriana Court",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/andriana-court",
+    "source": "anchor_at",
+    "lat": 34.773562,
+    "lng": 32.431618,
+    "href": "https://www.google.com/maps/@34.773562,32.431618,12z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3"
+  },
+  {
+    "name": "Avora Court",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/avora-court",
+    "source": "data_attr",
+    "lat": 34.791008,
+    "lng": 32.424425
+  },
+  {
+    "name": "Melania - Begonia Residences",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/melania-begonia-residences",
+    "source": "data_attr",
+    "lat": 34.789991,
+    "lng": 32.412287
+  },
+  {
+    "name": "Roseland Villas 1",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/roseland-villas-1",
+    "source": "data_attr",
+    "lat": 34.802898,
+    "lng": 32.401107
+  },
+  {
+    "name": "Trinity Residences",
+    "area": "Paphos City Center",
+    "url": "https://www.aristodevelopers.com/developments/trinity-residences",
+    "source": "data_attr",
+    "lat": 34.698611,
+    "lng": 32.595556
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "dev": "Pafilia",
+    "name": "Konia Green",
+    "url": "https://www.pafilia.com/properties/all/paphos/konia-green/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Pafilia",
+    "name": "Beachside Villas",
+    "url": "https://www.pafilia.com/properties/all/paphos/beachside-villas/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Pafilia",
+    "name": "Coral Vista",
+    "url": "https://www.pafilia.com/properties/all/paphos/coral-vista-villas/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Pafilia",
+    "name": "Elysia Blu",
+    "url": "https://www.pafilia.com/properties/all/paphos/elysia-blu/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Pafilia",
+    "name": "Minthis",
+    "url": "https://www.pafilia.com/properties/all/paphos/minthis/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Pafilia",
+    "name": "Pafilia Plaza",
+    "url": "https://www.pafilia.com/properties/all/paphos/pafilia-plaza/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Pafilia",
+    "name": "Olea Residences",
+    "url": "https://www.pafilia.com/properties/all/paphos/olea-residences-villas/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Island Blue",
+    "name": "IBC Tower",
+    "url": "https://www.islandbluecyprus.com/projects/ibc-tower",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Island Blue",
+    "name": "Avalon Gardens 2",
+    "url": "https://www.islandbluecyprus.com/projects/avalon-gardens-2",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Island Blue",
+    "name": "Sapphire",
+    "url": "https://www.islandbluecyprus.com/projects/sapphire",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Island Blue",
+    "name": "The King Residences",
+    "url": "https://www.islandbluecyprus.com/projects/the-king-residences",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Island Blue",
+    "name": "Cityscape Residences",
+    "url": "https://www.islandbluecyprus.com/projects/cityscape-resdidences",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "DNP",
+    "name": "ELEA Residence",
+    "url": "https://www.dnp.com.cy/elea-residence/",
+    "source": "ERR",
+    "error": "Invalid URL"
+  },
+  {
+    "dev": "DNP",
+    "name": "DNP Park View",
+    "url": "https://www.dnp.com.cy/dnp-park-view/",
+    "source": "schema",
+    "lat": 34.7675,
+    "lng": 32.43
+  },
+  {
+    "dev": "DNP",
+    "name": "Ivy City Residence",
+    "url": "https://www.dnp.com.cy/ivy-city-residence/",
+    "source": "schema",
+    "lat": 34.7675,
+    "lng": 32.43
+  },
+  {
+    "dev": "DNP",
+    "name": "Melrose Place",
+    "url": "https://www.dnp.com.cy/melrose-place/",
+    "source": "schema",
+    "lat": 34.7675,
+    "lng": 32.43
+  },
+  {
+    "dev": "DNP",
+    "name": "St Nicholas Hills",
+    "url": "https://www.dnp.com.cy/st-nicholas-hills/",
+    "source": "schema",
+    "lat": 34.7675,
+    "lng": 32.43
+  },
+  {
+    "dev": "DNP",
+    "name": "Salacia Beach Residence",
+    "url": "https://www.dnp.com.cy/salacia-beach-residence/",
+    "source": "schema",
+    "lat": 34.7675,
+    "lng": 32.43
+  },
+  {
+    "dev": "DNP",
+    "name": "Riga Homes",
+    "url": "https://www.dnp.com.cy/riga-homes/",
+    "source": "schema",
+    "lat": 34.7675,
+    "lng": 32.43
+  },
+  {
+    "dev": "Olias",
+    "name": "The Triangle House",
+    "url": "https://oliashomes.com/project/the-triangle-house/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Olias",
+    "name": "Pine Park",
+    "url": "https://oliashomes.com/project/pine-park-2bed-apartments-paphos/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Olias",
+    "name": "Grato Homes Phase 2",
+    "url": "https://oliashomes.com/project/grato-homes-phase-2/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Olias",
+    "name": "Olivelia Homes",
+    "url": "https://oliashomes.com/project/olivelia-park-villas-for-sale-paphos/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Cap St Georges Villas",
+    "url": "https://korantinahomes.com/projects/cap-st-georges-resort/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Royal Bay Resort",
+    "url": "https://korantinahomes.com/projects/royal-bay-resort/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "SOHO Resort",
+    "url": "https://korantinahomes.com/projects/soho-resort/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "City Landmark",
+    "url": "https://korantinahomes.com/projects/city-landmark/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "City 9 Residences",
+    "url": "https://korantinahomes.com/projects/city-9/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Inner City 2",
+    "url": "https://korantinahomes.com/projects/inner-city-2/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Inner City 3",
+    "url": "https://korantinahomes.com/projects/inner-city-3/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Inner City 4",
+    "url": "https://korantinahomes.com/projects/inner-city-4/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Sunset View Villas",
+    "url": "https://korantinahomes.com/projects/sunset-view-villas/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Seascape",
+    "url": "https://korantinahomes.com/projects/seascape/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Sea Caves Villas",
+    "url": "https://korantinahomes.com/projects/sea-caves-villas/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Sea Caves Seafront Villa",
+    "url": "https://korantinahomes.com/projects/seafront-villa/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Gardens View Villas",
+    "url": "https://korantinahomes.com/projects/gardens-view/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Riviera Residences",
+    "url": "https://korantinahomes.com/projects/riviera-residences/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Hill Residences",
+    "url": "https://korantinahomes.com/projects/hills-residences/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Hill Panorama",
+    "url": "https://korantinahomes.com/projects/hills-panorama/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Golden View Villas",
+    "url": "https://korantinahomes.com/projects/golden-view-villas/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Avakas 2",
+    "url": "https://korantinahomes.com/projects/avakas-2/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Lara Residences",
+    "url": "https://korantinahomes.com/projects/lara-residences/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "Korantina",
+    "name": "Georgiana Residences 3",
+    "url": "https://korantinahomes.com/projects/georgiana-residences-3/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  }
+]

@@ -1,0 +1,469 @@
+[
+  {
+    "dev": "AJAMI Group",
+    "name": "Mythos",
+    "area": "Paphos City Center",
+    "url": "https://ajamigroup.com/mythos/",
+    "source": "dms",
+    "lat": 34.77594444444444,
+    "lng": 32.419555555555554
+  },
+  {
+    "dev": "AJAMI Group",
+    "name": "Carob Homes",
+    "area": "Tala",
+    "url": "https://ajamigroup.com/carob-homes/",
+    "source": "standalone",
+    "lat": 34.852332,
+    "lng": 32.420848
+  },
+  {
+    "dev": "AJAMI Group",
+    "name": "The Nest",
+    "area": "Paphos City Center",
+    "url": "https://ajamigroup.com/the-nest-block-b-c/",
+    "source": "dms",
+    "lat": 34.79230555555555,
+    "lng": 32.42780555555555
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Marina Beachfront Villa",
+    "area": "Kato Paphos",
+    "url": "https://www.amandihomes.com/marina-beachfront-villa",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Jewel of the Seacaves Villa",
+    "area": "Sea Caves",
+    "url": "https://www.amandihomes.com/jewel-of-the-seacaves-villa",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Laguna Beachfront Villas",
+    "area": "Kato Paphos",
+    "url": "https://www.amandihomes.com/laguna-beachfront-villas",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Santa Monica Villas",
+    "area": "Coral Bay",
+    "url": "https://www.amandihomes.com/santa-monica-villas",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Primerose Villas",
+    "area": "Tala",
+    "url": "https://www.amandihomes.com/primerose-villas",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Kissos Villa",
+    "area": "Kissonerga",
+    "url": "https://www.amandihomes.com/kissos-villa",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Mayfair Villa",
+    "area": "Kissonerga",
+    "url": "https://www.amandihomes.com/copy-of-kissos-villa",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Sunnyday Apartments",
+    "area": "Paphos City Center",
+    "url": "https://www.amandihomes.com/sunnyday-apartments",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Chrystalla Residences",
+    "area": "Paphos City Center",
+    "url": "https://www.amandihomes.com/chrystalla-residences",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Primerose Apartments",
+    "area": "Tala",
+    "url": "https://www.amandihomes.com/primerose-apartments",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Jasmine Homes",
+    "area": "Paphos City Center",
+    "url": "https://www.amandihomes.com/jasmine-homes",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Amandi Homes",
+    "name": "Fortuna Apartments",
+    "area": "Paphos City Center",
+    "url": "https://www.amandihomes.com/fortuna-apartments",
+    "source": "schema",
+    "lat": 34.7649615,
+    "lng": 32.42774269999995
+  },
+  {
+    "dev": "Constantinou Bros Properties",
+    "name": "Riviera Residences I",
+    "area": "Yeroskipou",
+    "url": "https://www.constantinoubrosproperties.com/development/riviera-residences-%e2%85%b0/120/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Constantinou Bros Properties",
+    "name": "Riviera Residences II",
+    "area": "Yeroskipou",
+    "url": "https://www.constantinoubrosproperties.com/development/riviera-residences-%e2%85%b1/123/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Constantinou Bros Properties",
+    "name": "Konia Panorama Phase 3",
+    "area": "Konia",
+    "url": "https://www.constantinoubrosproperties.com/development/konia-panorama-phase-3/115/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Constantinou Bros Properties",
+    "name": "Asimina Park",
+    "area": "Paphos City Center",
+    "url": "https://www.constantinoubrosproperties.com/development/asimina-park/113/",
+    "source": "standalone",
+    "lat": 34.761578,
+    "lng": 32.429718
+  },
+  {
+    "dev": "Emme Homes",
+    "name": "Alaya Residence",
+    "area": "Chloraka",
+    "url": "https://emme.homes/projects/alaya-residence/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Emme Homes",
+    "name": "Flora Residence",
+    "area": "Chloraka",
+    "url": "https://emme.homes/projects/flora-residence/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Emme Homes",
+    "name": "Buena Vista Villas",
+    "area": "Tala",
+    "url": "https://emme.homes/projects/buena-vista-villas/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Kaizer Constructions",
+    "name": "Akthi Residence",
+    "area": "Peyia",
+    "url": "https://kaizerconstructions.com/property/akthi-residence/",
+    "source": "schema",
+    "lat": 34.881898,
+    "lng": 32.379959
+  },
+  {
+    "dev": "Kaizer Constructions",
+    "name": "Rhea Residences",
+    "area": "Tremithousa",
+    "url": "https://kaizerconstructions.com/property/rhea-residences/",
+    "source": "schema",
+    "lat": 34.824187,
+    "lng": 32.43841
+  },
+  {
+    "dev": "Kaizer Constructions",
+    "name": "Hesperia Residences",
+    "area": "Paphos City Center",
+    "url": "https://kaizerconstructions.com/property/hesperia-residences/",
+    "source": "schema",
+    "lat": 34.796263,
+    "lng": 32.443078
+  },
+  {
+    "dev": "Kaizer Constructions",
+    "name": "Pentelis Greens",
+    "area": "Yeroskipou",
+    "url": "https://kaizerconstructions.com/property/pentelis-greens/",
+    "source": "schema",
+    "lat": 34.763288,
+    "lng": 32.459641
+  },
+  {
+    "dev": "Kaizer Constructions",
+    "name": "Virtue Residences",
+    "area": "Paphos City Center",
+    "url": "https://kaizerconstructions.com/property/virtue-residences/",
+    "source": "schema",
+    "lat": 34.759613,
+    "lng": 32.432047
+  },
+  {
+    "dev": "Kaizer Constructions",
+    "name": "Flora Residences",
+    "area": "Paphos City Center",
+    "url": "https://kaizerconstructions.com/property/flora-residences/",
+    "source": "schema",
+    "lat": 34.770913,
+    "lng": 32.419484
+  },
+  {
+    "dev": "Kaizer Constructions",
+    "name": "Akourdalia",
+    "area": "Paphos City Center",
+    "url": "https://kaizerconstructions.com/property/akourdalia/",
+    "source": "schema",
+    "lat": 34.775395,
+    "lng": 32.421779
+  },
+  {
+    "dev": "Kentia Homes",
+    "name": "Paphos City Apartments",
+    "area": "Paphos City Center",
+    "url": "https://www.kentiahomes.com/paphos-city-apartments-for-sale",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Kentia Homes",
+    "name": "Paphos City Centre Apartments",
+    "area": "Paphos City Center",
+    "url": "https://www.kentiahomes.com/paphos-city-centre-apartments-properties",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "KouroushiBros",
+    "name": "Tala House",
+    "area": "Tala",
+    "url": "https://www.kouroushibrosproperty.com/talavilla",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "KouroushiBros",
+    "name": "Anarita Villas 1 & 2",
+    "area": "Mandria",
+    "url": "https://www.kouroushibrosproperty.com/anaritavilla1-2",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "KouroushiBros",
+    "name": "Anarita Villas 5 & 6",
+    "area": "Mandria",
+    "url": "https://www.kouroushibrosproperty.com/anaritavilla5-6",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "KouroushiBros",
+    "name": "Anarita Villas 7 & 8",
+    "area": "Mandria",
+    "url": "https://www.kouroushibrosproperty.com/anaritavilla7-8",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Prospecta Development",
+    "name": "The Park View Residences",
+    "area": "Paphos City Center",
+    "url": "https://prospectadevelopment.com/development/the-park-view-residences/",
+    "source": "goo_gl_redirect",
+    "lat": 34.7659817,
+    "lng": 32.4149211
+  },
+  {
+    "dev": "Prospecta Development",
+    "name": "BREEZE RESIDENCES II",
+    "area": "Paphos City Center",
+    "url": "https://prospectadevelopment.com/development/breeze-residences-ii/",
+    "source": "goo_gl_redirect",
+    "lat": 34.7659817,
+    "lng": 32.4149211
+  },
+  {
+    "dev": "Prospecta Development",
+    "name": "The Avenue Residences",
+    "area": "Paphos City Center",
+    "url": "https://prospectadevelopment.com/development/the-avenue-residences/",
+    "source": "goo_gl_redirect",
+    "lat": 34.7659817,
+    "lng": 32.4149211
+  },
+  {
+    "dev": "Prospecta Development",
+    "name": "St George Gardens",
+    "area": "Paphos City Center",
+    "url": "https://prospectadevelopment.com/development/st-george-gardens/",
+    "source": "goo_gl_redirect",
+    "lat": 34.7659817,
+    "lng": 32.4149211
+  },
+  {
+    "dev": "Prospecta Development",
+    "name": "Tony Blue Residences",
+    "area": "Paphos City Center",
+    "url": "https://prospectadevelopment.com/development/tony-blue-residences/",
+    "source": "goo_gl_redirect",
+    "lat": 34.7659817,
+    "lng": 32.4149211
+  },
+  {
+    "dev": "Prospecta Development",
+    "name": "The Central Residences",
+    "area": "Paphos City Center",
+    "url": "https://prospectadevelopment.com/development/the-central-residences/",
+    "source": "goo_gl_redirect",
+    "lat": 34.7659817,
+    "lng": 32.4149211
+  },
+  {
+    "dev": "Reiwa Development",
+    "name": "BRONTE",
+    "area": "Paphos City Center",
+    "url": "https://www.reiwa-development.com/project/bronte/103/",
+    "source": "standalone",
+    "lat": 34.75878028,
+    "lng": 32.42380875
+  },
+  {
+    "dev": "Reiwa Development",
+    "name": "Reiwa Center",
+    "area": "Paphos City Center",
+    "url": "https://www.reiwa-development.com/project/reiwa-center/102/",
+    "source": "standalone",
+    "lat": 34.7729635,
+    "lng": 32.4262245
+  },
+  {
+    "dev": "Reiwa Development",
+    "name": "NOVA 12",
+    "area": "Paphos City Center",
+    "url": "https://www.reiwa-development.com/project/nova/101/",
+    "source": "standalone",
+    "lat": 34.777907,
+    "lng": 32.413737
+  },
+  {
+    "dev": "Reiwa Development",
+    "name": "UNO",
+    "area": "Paphos City Center",
+    "url": "https://www.reiwa-development.com/project/uno/100/",
+    "source": "standalone",
+    "lat": 34.789851,
+    "lng": 32.413133
+  },
+  {
+    "dev": "Raftis Group",
+    "name": "Castle Residences",
+    "area": "Paphos City Center",
+    "url": "https://raftisgroup.com/projects/castle-residences-luxury-villas-2/",
+    "source": "address_geocoded",
+    "lat": 34.7995901,
+    "lng": 32.4079198,
+    "hint": "Chloraka, Cyprus"
+  },
+  {
+    "dev": "Raftis Group",
+    "name": "Coral Bay Option B",
+    "area": "Coral Bay",
+    "url": "https://raftisgroup.com/projects/coral-bay-villas-option-b/",
+    "source": "address_geocoded",
+    "lat": 34.8537937,
+    "lng": 32.3699315,
+    "hint": "coral bay, Paphos"
+  },
+  {
+    "dev": "Raftis Group",
+    "name": "Kings Residences",
+    "area": "Kato Paphos",
+    "url": "https://raftisgroup.com/projects/kings-residences-luxury-villas/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Raftis Group",
+    "name": "Olivia Villas III",
+    "area": "Tala",
+    "url": "https://raftisgroup.com/projects/olivia-villas-iii/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Raftis Group",
+    "name": "Seaside III Option B",
+    "area": "Kato Paphos",
+    "url": "https://raftisgroup.com/projects/seaside-iii-villas-option-b/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  }
+]

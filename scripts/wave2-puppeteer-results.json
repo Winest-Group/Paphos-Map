@@ -1,0 +1,153 @@
+[
+  {
+    "dev": "Constantinou Bros Properties",
+    "name": "Riviera Residences I",
+    "area": "Yeroskipou",
+    "url": "https://www.constantinoubrosproperties.com/development/riviera-residences-%e2%85%b0/120/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Constantinou Bros Properties",
+    "name": "Riviera Residences II",
+    "area": "Yeroskipou",
+    "url": "https://www.constantinoubrosproperties.com/development/riviera-residences-%e2%85%b1/123/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Constantinou Bros Properties",
+    "name": "Konia Panorama Phase 3",
+    "area": "Konia",
+    "url": "https://www.constantinoubrosproperties.com/development/konia-panorama-phase-3/115/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Emme Homes",
+    "name": "Alaya Residence",
+    "area": "Chloraka",
+    "url": "https://emme.homes/projects/alaya-residence/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Emme Homes",
+    "name": "Flora Residence",
+    "area": "Chloraka",
+    "url": "https://emme.homes/projects/flora-residence/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Emme Homes",
+    "name": "Buena Vista Villas",
+    "area": "Tala",
+    "url": "https://emme.homes/projects/buena-vista-villas/",
+    "source": "anchor_at",
+    "lat": 34.7906509,
+    "lng": 32.4106302,
+    "needs_puppeteer": true,
+    "href": "https://www.google.com/maps/@34.7906509,32.4106302,11z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3"
+  },
+  {
+    "dev": "Kentia Homes",
+    "name": "Paphos City Apartments",
+    "area": "Paphos City Center",
+    "url": "https://www.kentiahomes.com/paphos-city-apartments-for-sale",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Kentia Homes",
+    "name": "Paphos City Centre Apartments",
+    "area": "Paphos City Center",
+    "url": "https://www.kentiahomes.com/paphos-city-centre-apartments-properties",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "KouroushiBros",
+    "name": "Tala House",
+    "area": "Tala",
+    "url": "https://www.kouroushibrosproperty.com/talavilla",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "KouroushiBros",
+    "name": "Anarita Villas 1 & 2",
+    "area": "Mandria",
+    "url": "https://www.kouroushibrosproperty.com/anaritavilla1-2",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "KouroushiBros",
+    "name": "Anarita Villas 5 & 6",
+    "area": "Mandria",
+    "url": "https://www.kouroushibrosproperty.com/anaritavilla5-6",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "KouroushiBros",
+    "name": "Anarita Villas 7 & 8",
+    "area": "Mandria",
+    "url": "https://www.kouroushibrosproperty.com/anaritavilla7-8",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Raftis Group",
+    "name": "Kings Residences",
+    "area": "Kato Paphos",
+    "url": "https://raftisgroup.com/projects/kings-residences-luxury-villas/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Raftis Group",
+    "name": "Olivia Villas III",
+    "area": "Tala",
+    "url": "https://raftisgroup.com/projects/olivia-villas-iii/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  },
+  {
+    "dev": "Raftis Group",
+    "name": "Seaside III Option B",
+    "area": "Kato Paphos",
+    "url": "https://raftisgroup.com/projects/seaside-iii-villas-option-b/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null,
+    "needs_puppeteer": true
+  }
+]
