@@ -1,0 +1,83 @@
+[
+  {
+    "dev": "INEX",
+    "name": "Palisandro Hills",
+    "area": "Paphos City Center",
+    "url": "https://inex-group.com/projects/palisandro-hills",
+    "source": "goo_gl_redirect",
+    "lat": 34.8702554,
+    "lng": 32.3858311
+  },
+  {
+    "dev": "INEX",
+    "name": "Morea",
+    "area": "Paphos City Center",
+    "url": "https://inex-group.com/projects/morea",
+    "source": "goo_gl_redirect",
+    "lat": 34.851472,
+    "lng": 32.3742222
+  },
+  {
+    "dev": "INEX",
+    "name": "Trees Park",
+    "area": "Paphos City Center",
+    "url": "https://inex-group.com/projects/trees-park",
+    "source": "goo_gl_redirect",
+    "lat": 34.7525067,
+    "lng": 32.4722682
+  },
+  {
+    "dev": "INEX",
+    "name": "Navie",
+    "area": "Paphos City Center",
+    "url": "https://inex-group.com/projects/navie",
+    "source": "goo_gl_redirect",
+    "lat": 34.7601691,
+    "lng": 32.4781209
+  },
+  {
+    "dev": "INEX",
+    "name": "Konia Crown",
+    "area": "Konia",
+    "url": "https://inex-group.com/projects/konia-crown",
+    "source": "goo_gl_redirect",
+    "lat": 34.7808886,
+    "lng": 32.4653392
+  },
+  {
+    "dev": "INEX",
+    "name": "Trees",
+    "area": "Paphos City Center",
+    "url": "https://inex-group.com/projects/trees",
+    "source": "goo_gl_redirect",
+    "lat": 34.7523378,
+    "lng": 32.4699848
+  },
+  {
+    "dev": "MITO Developers",
+    "name": "MAMBA",
+    "area": "Kato Paphos",
+    "url": "https://mito-developers.com/property/mamba/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "MITO Developers",
+    "name": "INFINITY",
+    "area": "Paphos City Center",
+    "url": "https://mito-developers.com/property/infinity/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "dev": "MITO Developers",
+    "name": "Paramount",
+    "area": "Universal",
+    "url": "https://mito-developers.com/property/paramount/",
+    "source": "NOT_FOUND",
+    "lat": null,
+    "lng": null
+  }
+]
