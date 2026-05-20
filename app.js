@@ -380,8 +380,9 @@ function refreshAreaFilter(city) {
 }
 
 async function loadProjects() {
+    // Fetch from base table (not view) so we get the city column added after view creation
     const { data: projects, error: projectsError } = await window.sb
-        .from('projects_with_summary')
+        .from('projects')
         .select('*')
         .order('name');
 
@@ -403,11 +404,20 @@ async function loadProjects() {
     ALL_PROPERTY_TYPES = propertyTypes || [];
     PROJECTS_BY_ID = {};
 
-    // attach property types to each project
+    // Attach property types and compute price aggregates client-side
+    // (the projects_with_summary view does this in SQL but predates the city column).
     projects.forEach(p => {
         p.property_types = ALL_PROPERTY_TYPES
             .filter(pt => pt.project_id === p.id)
             .sort((a, b) => a.price - b.price);
+        const prices = p.property_types.map(pt => pt.price).filter(x => x != null);
+        p.price_min = prices.length ? Math.min(...prices) : null;
+        p.price_max = prices.length ? Math.max(...prices) : null;
+        const sizesMin = p.property_types.map(pt => pt.size_min).filter(x => x != null);
+        const sizesMax = p.property_types.map(pt => pt.size_max).filter(x => x != null);
+        p.size_min_total = sizesMin.length ? Math.min(...sizesMin) : null;
+        p.size_max_total = sizesMax.length ? Math.max(...sizesMax) : null;
+        p.property_types_count = p.property_types.length;
         PROJECTS_BY_ID[p.id] = p;
     });
 
