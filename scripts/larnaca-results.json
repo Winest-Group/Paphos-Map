@@ -1,0 +1,887 @@
+[
+  {
+    "dev": "Plus Properties",
+    "name": "PLUS 21 ROY TERRACES",
+    "area": "Mackenzie",
+    "url": "https://www.pluspropertiescyprus.com/plus-21-roy-terraces---mackenzie/59",
+    "source": "area_fallback",
+    "lat": 34.886199999999995,
+    "lng": 33.6406
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "PLUS 38",
+    "area": "Mackenzie",
+    "url": "https://www.pluspropertiescyprus.com/plus-38---mackenzie/76",
+    "source": "area_fallback",
+    "lat": 34.88456576481398,
+    "lng": 33.64136423272267
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "PLUS 57 TAMARA GARDENS 2",
+    "area": "Livadia",
+    "url": "https://www.pluspropertiescyprus.com/plus-57-tamara-gardens-2---livadia/99",
+    "source": "area_fallback",
+    "lat": 34.924499999999995,
+    "lng": 33.65
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 59",
+    "area": "Larnaca City Center",
+    "url": "https://www.pluspropertiescyprus.com/plus-59---new-mall-area/98",
+    "source": "area_fallback",
+    "lat": 34.9174,
+    "lng": 33.6304
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "PLUS 61",
+    "area": "Larnaca City Center",
+    "url": "https://www.pluspropertiescyprus.com/plus-61---faneromeni/108",
+    "source": "area_fallback",
+    "lat": 34.91576576481398,
+    "lng": 33.631164232722675
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 62",
+    "area": "Livadia",
+    "url": "https://www.pluspropertiescyprus.com/plus-62---livadia/104",
+    "source": "area_fallback",
+    "lat": 34.92286576481398,
+    "lng": 33.65076423272267
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "PLUS 65",
+    "area": "Larnaca City Center",
+    "url": "https://www.pluspropertiescyprus.com/plus-65---faneromeni/110",
+    "source": "area_fallback",
+    "lat": 34.91672113172147,
+    "lng": 33.62901966413288
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "PLUS 66",
+    "area": "Larnaca City Center",
+    "url": "https://www.pluspropertiescyprus.com/plus-66---faneromeni/111",
+    "source": "area_fallback",
+    "lat": 34.91757351448047,
+    "lng": 33.631669751769564
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "PLUS 70-71",
+    "area": "Marina",
+    "url": "https://www.pluspropertiescyprus.com/plus-70-71---new-marina/113",
+    "source": "area_fallback",
+    "lat": 34.9219,
+    "lng": 33.6428
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 74",
+    "area": "Larnaca City Center",
+    "url": "https://www.pluspropertiescyprus.com/plus-74---downtown/118",
+    "source": "area_fallback",
+    "lat": 34.914838486941576,
+    "lng": 33.63008843661161
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "PLUS 75",
+    "area": "Kiti",
+    "url": "https://www.pluspropertiescyprus.com/plus-75---kiti/121",
+    "source": "area_fallback",
+    "lat": 34.8426,
+    "lng": 33.5723
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 77",
+    "area": "Mackenzie",
+    "url": "https://www.pluspropertiescyprus.com/plus-77---mackenzie/122",
+    "source": "area_fallback",
+    "lat": 34.88552113172146,
+    "lng": 33.63921966413288
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 79",
+    "area": "Livadia",
+    "url": "https://www.pluspropertiescyprus.com/plus-79---livadia/123",
+    "source": "area_fallback",
+    "lat": 34.92382113172146,
+    "lng": 33.64861966413288
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 80",
+    "area": "Livadia",
+    "url": "https://www.pluspropertiescyprus.com/plus-80-livadia/124",
+    "source": "area_fallback",
+    "lat": 34.92467351448047,
+    "lng": 33.65126975176956
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 81",
+    "area": "Larnaca City Center",
+    "url": "https://www.pluspropertiescyprus.com/plus-81---downtown/126",
+    "source": "area_fallback",
+    "lat": 34.91825339896721,
+    "lng": 33.62934820541206
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 82",
+    "area": "Larnaca City Center",
+    "url": "https://www.pluspropertiescyprus.com/plus-82---downtown/127",
+    "source": "area_fallback",
+    "lat": 34.916050560866104,
+    "lng": 33.63244404418694
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 87",
+    "area": "Marina",
+    "url": "https://www.pluspropertiescyprus.com/plus-87---new-marina/134",
+    "source": "area_fallback",
+    "lat": 34.92026576481398,
+    "lng": 33.643564232722674
+  },
+  {
+    "dev": "Plus Properties",
+    "name": "Plus 88",
+    "area": "Larnaca City Center",
+    "url": "https://www.pluspropertiescyprus.com/plus-88---downtown/133",
+    "source": "area_fallback",
+    "lat": 34.91555704105715,
+    "lng": 33.62839195701154
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Destiny Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=823",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9399767,
+    "lng": 33.6026319
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Velvet Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=803",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9289205,
+    "lng": 33.6024334
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Horizon Towers",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=833",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9393875,
+    "lng": 33.6369749
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Golden Park II",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=793",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.907578,
+    "lng": 33.5837545
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Aurora Residence (DexTek)",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=784",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9407507,
+    "lng": 33.631514
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "The Jewel",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=648",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9327336,
+    "lng": 33.6125561
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "San Sousi Development",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=471",
+    "source": "standalone",
+    "lat": 34.921344,
+    "lng": 33.636181
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "The Central II",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=747",
+    "source": "area_fallback",
+    "lat": 34.91885439238253,
+    "lng": 33.63122323446577
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Lorelei Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=500",
+    "source": "standalone",
+    "lat": 34.921344,
+    "lng": 33.636181
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Silverstone Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=570",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9259473,
+    "lng": 33.6015912
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "The Central",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=639",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9175901,
+    "lng": 33.6144658
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Golden Park",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=666",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9369424,
+    "lng": 33.6166116
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Glamour Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=757",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9323862,
+    "lng": 33.6334827
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Paradise Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=684",
+    "source": "area_fallback",
+    "lat": 34.91426159821707,
+    "lng": 33.63136533781733
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Savoy Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=607",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9318189,
+    "lng": 33.6217132
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Allure Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=618",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9258418,
+    "lng": 33.6162254
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Onyx Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=559",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.932483,
+    "lng": 33.6083826
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Lumina Mare",
+    "area": "Mackenzie",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=852",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9330987,
+    "lng": 33.6387345
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Finix Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=583",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9143834,
+    "lng": 33.6132803
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Aqua Parkview Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=531",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.92442,
+    "lng": 33.6172594
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Hamilton Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=628",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.932472,
+    "lng": 33.6122664
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "La Vida Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=717",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9447963,
+    "lng": 33.6267933
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Infinite Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=834",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9448909,
+    "lng": 33.6325775
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Palm 2",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=733",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9244783,
+    "lng": 33.5887998
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Palm 1",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=724",
+    "source": "area_fallback",
+    "lat": 34.91772451289065,
+    "lng": 33.627996779086565
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Mari-Blu Residence II",
+    "area": "Mackenzie",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=470",
+    "source": "standalone",
+    "lat": 34.921344,
+    "lng": 33.636181
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "Vista Del Mare",
+    "area": "Mackenzie",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=675",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.9451349,
+    "lng": 33.6366853
+  },
+  {
+    "dev": "DexTek Group",
+    "name": "One & One Residences",
+    "area": "Larnaca City Center",
+    "url": "https://www.dextekgroup.com/publish_project.php?id=843",
+    "source": "puppeteer:anchor_at",
+    "lat": 34.926871,
+    "lng": 33.5851868
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Palm Residence",
+    "area": "Oroklini",
+    "url": "https://www.infinityproperties.com.cy/palm-residence/",
+    "source": "embed",
+    "lat": 34.97568792159356,
+    "lng": 33.661135445293816
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Aqua Residence",
+    "area": "Livadia",
+    "url": "https://www.infinityproperties.com.cy/aqua-residence/",
+    "source": "embed",
+    "lat": 34.954009097487834,
+    "lng": 33.622948269647274
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Coral Residence",
+    "area": "Mackenzie",
+    "url": "http://www.infinityproperties.com.cy/coral-residence/",
+    "source": "puppeteer:iframe_embed",
+    "error": "Protocol \"http:\" not supported. Expected \"https:\"",
+    "lat": 34.899689955884654,
+    "lng": 33.636949690359636
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Marina Home Residence",
+    "area": "Marina",
+    "url": "https://www.infinityproperties.com.cy/marina-home-residence/",
+    "source": "embed",
+    "lat": 34.927731097840706,
+    "lng": 33.634054269647244
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Kalymnos Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.infinityproperties.com.cy/kalymnos-residence/",
+    "source": "embed",
+    "lat": 34.913072098037475,
+    "lng": 33.59045126962826
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Lotus Residence",
+    "area": "Livadia",
+    "url": "https://www.infinityproperties.com.cy/lotus-residence/",
+    "source": "embed",
+    "lat": 34.93965209768067,
+    "lng": 33.631638269640234
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Serenity Residence",
+    "area": "Drosia",
+    "url": "https://www.infinityproperties.com.cy/serenity-residence/",
+    "source": "embed",
+    "lat": 34.91589909799949,
+    "lng": 33.61858126964721
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Infinity Central",
+    "area": "Larnaca City Center",
+    "url": "https://www.infinityproperties.com.cy/infinity-central/",
+    "source": "embed",
+    "lat": 34.92817530517107,
+    "lng": 33.61536247120933
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Hydra Residence",
+    "area": "Oroklini",
+    "url": "https://www.infinityproperties.com.cy/hydra-residence/",
+    "source": "embed",
+    "lat": 34.972524249738626,
+    "lng": 33.65442036395089
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Orchidea Residence",
+    "area": "Larnaca City Center",
+    "url": "http://www.infinityproperties.com.cy/orchidea-residence/",
+    "source": "puppeteer:iframe_embed",
+    "error": "Protocol \"http:\" not supported. Expected \"https:\"",
+    "lat": 34.91481746491443,
+    "lng": 33.58558372298363
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Harmonia Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.infinityproperties.com.cy/harmonia-residence/",
+    "source": "embed",
+    "lat": 34.91628079227237,
+    "lng": 33.59207119883825
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Riviera Residence (Infinity)",
+    "area": "Livadia",
+    "url": "https://www.infinityproperties.com.cy/riviera-residence/",
+    "source": "embed",
+    "lat": 34.94706567831218,
+    "lng": 33.6404237561689
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Aurora Residence (Infinity)",
+    "area": "Marina",
+    "url": "https://www.infinityproperties.com.cy/aurora-residence/",
+    "source": "embed",
+    "lat": 34.92741026367671,
+    "lng": 33.63230428310503
+  },
+  {
+    "dev": "Infinity Properties",
+    "name": "Reef Residence",
+    "area": "Mackenzie",
+    "url": "http://www.infinityproperties.com.cy/reef-residence/",
+    "source": "puppeteer:iframe_embed",
+    "error": "Protocol \"http:\" not supported. Expected \"https:\"",
+    "lat": 34.899689955884654,
+    "lng": 33.636949690359636
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Sunstone Residences Block A",
+    "area": "Larnaca City Center",
+    "url": "https://africanosproperties.com/project/sunstone-residences-block-a-under-study-completion-year-2028/",
+    "source": "embed",
+    "lat": 34.930517472838915,
+    "lng": 33.60018707646631
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Mackenzy Star Residences",
+    "area": "Mackenzie",
+    "url": "https://africanosproperties.com/project/mackenzy-star-residences-coming-soon/",
+    "source": "embed",
+    "lat": 34.90053637246382,
+    "lng": 33.6291870760145
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Serenity Residences (Africanos)",
+    "area": "Aradippou",
+    "url": "https://africanosproperties.com/project/serenity-residences/",
+    "source": "embed",
+    "lat": 34.93409207051069,
+    "lng": 33.59622136080098
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Kiti Magic Residences",
+    "area": "Kiti",
+    "url": "https://africanosproperties.com/project/kiti-magic-residences/",
+    "source": "embed",
+    "lat": 34.855519678072795,
+    "lng": 33.58027984629725
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Marina Riviera Residences",
+    "area": "Marina",
+    "url": "https://africanosproperties.com/project/marina-riviera-residences/",
+    "source": "embed",
+    "lat": 34.9406949728353,
+    "lng": 33.63049007648569
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Central Park Residences",
+    "area": "Larnaca City Center",
+    "url": "https://africanosproperties.com/project/central-park-residences-under-study-completion-end-of-december-2028/",
+    "source": "embed",
+    "lat": 34.916468881563624,
+    "lng": 33.6250379080431
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Amber Residences",
+    "area": "Larnaca City Center",
+    "url": "https://africanosproperties.com/project/amber-residences-under-study-completion-december-2027/",
+    "source": "embed",
+    "lat": 34.913887972844755,
+    "lng": 33.617573076484746
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Marina Riviera Residences Block A",
+    "area": "Marina",
+    "url": "https://africanosproperties.com/project/marina-riviera-residences/marina-riviera-residences-block-a-completion-year-2028/",
+    "source": "embed",
+    "lat": 34.9406949728353,
+    "lng": 33.63049007648569
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Ruby Residences",
+    "area": "Larnaca City Center",
+    "url": "https://africanosproperties.com/project/ruby-residences-under-study-completion-december-2027/",
+    "source": "embed",
+    "lat": 34.918949404049684,
+    "lng": 33.60640370427597
+  },
+  {
+    "dev": "Africanos Property Developers",
+    "name": "Amethyst Residences",
+    "area": "Larnaca City Center",
+    "url": "https://africanosproperties.com/project/amethyst-residences-under-study-completion-december-2027/",
+    "source": "embed",
+    "lat": 34.91303597284489,
+    "lng": 33.62334307652176
+  },
+  {
+    "dev": "New Zoe Developers",
+    "name": "Oroklini Hills View",
+    "area": "Oroklini",
+    "url": "https://newzoedevelopers.com/en/projects/2194857",
+    "source": "goo_gl_redirect",
+    "lat": 34.9740744,
+    "lng": 33.6771175
+  },
+  {
+    "dev": "New Zoe Developers",
+    "name": "Palourtis House",
+    "area": "Dhekelia",
+    "url": "https://newzoedevelopers.com/en/projects/2148361",
+    "source": "goo_gl_redirect",
+    "lat": 34.9740744,
+    "lng": 33.6771175
+  },
+  {
+    "dev": "New Zoe Developers",
+    "name": "Sophia Gardens",
+    "area": "Pyla",
+    "url": "https://newzoedevelopers.com/en/projects/2171180",
+    "source": "goo_gl_redirect",
+    "lat": 34.9740744,
+    "lng": 33.6771175
+  },
+  {
+    "dev": "New Zoe Developers",
+    "name": "Beachfront Land Ormidia",
+    "area": "Dhekelia",
+    "url": "https://newzoedevelopers.com/en/projects/2273252",
+    "source": "goo_gl_redirect",
+    "lat": 34.9740744,
+    "lng": 33.6771175
+  },
+  {
+    "dev": "New Zoe Developers",
+    "name": "Beach Front Ormidia Villa",
+    "area": "Dhekelia",
+    "url": "https://newzoedevelopers.com/en/projects/2171283",
+    "source": "goo_gl_redirect",
+    "lat": 34.9740744,
+    "lng": 33.6771175
+  },
+  {
+    "dev": "New Zoe Developers",
+    "name": "Anna Court Livadia",
+    "area": "Livadia",
+    "url": "https://newzoedevelopers.com/en/projects/2171139",
+    "source": "goo_gl_redirect",
+    "lat": 34.9740744,
+    "lng": 33.6771175
+  },
+  {
+    "dev": "New Zoe Developers",
+    "name": "Academia Tower",
+    "area": "Larnaca City Center",
+    "url": "https://newzoedevelopers.com/en/projects/2171196",
+    "source": "goo_gl_redirect",
+    "lat": 34.9740744,
+    "lng": 33.6771175
+  },
+  {
+    "dev": "New Zoe Developers",
+    "name": "Charalambos Residences",
+    "area": "Livadia",
+    "url": "https://newzoedevelopers.com/en/projects/2151283",
+    "source": "goo_gl_redirect",
+    "lat": 34.9740744,
+    "lng": 33.6771175
+  },
+  {
+    "dev": "Edge Development Group",
+    "name": "Park Avenue (Edge)",
+    "area": "Larnaca City Center",
+    "url": "https://www.edgedevelopment.eu/projects/park-avenue/",
+    "source": "area_fallback",
+    "lat": 34.91742949371661,
+    "lng": 33.633044227708446
+  },
+  {
+    "dev": "Edge Development Group",
+    "name": "Sea Gallery by Edge",
+    "area": "Mackenzie",
+    "url": "https://www.edgedevelopment.eu/projects/sea-gallery-by-edge/",
+    "source": "area_fallback",
+    "lat": 34.88637351448047,
+    "lng": 33.64186975176956
+  },
+  {
+    "dev": "Edge Development Group",
+    "name": "Krasas Hillside Residences",
+    "area": "Larnaca City Center",
+    "url": "https://www.edgedevelopment.eu/projects/krasas-hillside-residences/",
+    "source": "standalone",
+    "lat": 34.91166,
+    "lng": 33.58348
+  },
+  {
+    "dev": "Edge Development Group",
+    "name": "Edge One Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.edgedevelopment.eu/projects/edge-one-residence/",
+    "source": "standalone",
+    "lat": 34.919585,
+    "lng": 33.609567
+  },
+  {
+    "dev": "Edge Development Group",
+    "name": "Edge Residences",
+    "area": "Aradippou",
+    "url": "https://www.edgedevelopment.eu/projects/edge-residences/",
+    "source": "standalone",
+    "lat": 34.9429,
+    "lng": 33.604153
+  },
+  {
+    "dev": "Edge Development Group",
+    "name": "Floating Scapes",
+    "area": "Marina",
+    "url": "https://www.edgedevelopment.eu/projects/floating-scapes/",
+    "source": "area_fallback",
+    "lat": 34.92122113172147,
+    "lng": 33.64141966413288
+  },
+  {
+    "dev": "Edge Development Group",
+    "name": "Pandora Residence",
+    "area": "Larnaca City Center",
+    "url": "https://www.edgedevelopment.eu/projects/pandora-residence/",
+    "source": "area_fallback",
+    "lat": 34.91410429324405,
+    "lng": 33.62895381612915
+  },
+  {
+    "dev": "Panikkos Livadiotis Group",
+    "name": "Eleyia Deluxe Villa",
+    "area": "Dhekelia",
+    "url": "https://www.livadiotis.com/index.php/properties/villas/eleyia-dhekelia-larnaca",
+    "source": "standalone",
+    "lat": 34.98117,
+    "lng": 33.69189
+  },
+  {
+    "dev": "Panikkos Livadiotis Group",
+    "name": "Plot 786 Dionysus Villas",
+    "area": "Pyla",
+    "url": "https://www.livadiotis.com/index.php/properties/villas/plot-786-dionysus-villas",
+    "source": "goo_gl_redirect",
+    "lat": 34.9861667,
+    "lng": 33.6779167
+  },
+  {
+    "dev": "Panikkos Livadiotis Group",
+    "name": "Villa Azure",
+    "area": "Marina",
+    "url": "https://www.livadiotis.com/index.php/properties/villas/azure-palm-beach-larnaca-cyprus-113",
+    "source": "standalone",
+    "lat": 34.97439,
+    "lng": 33.66592
+  },
+  {
+    "dev": "Panikkos Livadiotis Group",
+    "name": "Ria Court 87",
+    "area": "Drosia",
+    "url": "https://www.livadiotis.com/index.php/properties/apartments/ria-court-87-drosia-hill-larnaca",
+    "source": "goo_gl_redirect",
+    "lat": 34.91356,
+    "lng": 33.610247
+  },
+  {
+    "dev": "Panikkos Livadiotis Group",
+    "name": "Ria Court 86",
+    "area": "Larnaca City Center",
+    "url": "https://www.livadiotis.com/index.php/properties/apartments/larnaca-investment-apartments-building",
+    "source": "goo_gl_redirect",
+    "lat": 34.909854,
+    "lng": 33.628173
+  },
+  {
+    "dev": "Panikkos Livadiotis Group",
+    "name": "Ria Court 63-67",
+    "area": "Larnaca City Center",
+    "url": "https://www.livadiotis.com/index.php/properties/apartments/ria-court-66-lakeside-boulevard",
+    "source": "goo_gl_redirect",
+    "lat": 34.913671,
+    "lng": 33.603599
+  },
+  {
+    "dev": "Panikkos Livadiotis Group",
+    "name": "Ria Court 89",
+    "area": "Larnaca City Center",
+    "url": "https://www.livadiotis.com/index.php/properties/apartments/ria-court-89",
+    "source": "goo_gl_redirect",
+    "lat": 34.913608,
+    "lng": 33.623942
+  },
+  {
+    "dev": "Marinakis Property Developers",
+    "name": "Marigate",
+    "area": "Marina",
+    "url": "https://marinakisproperties.vercel.app/marigate.html",
+    "source": "area_fallback",
+    "lat": 34.92207351448047,
+    "lng": 33.644069751769564
+  },
+  {
+    "dev": "Marinakis Property Developers",
+    "name": "Palma Fiore",
+    "area": "Livadia",
+    "url": "https://marinakisproperties.vercel.app/",
+    "source": "area_fallback",
+    "lat": 34.92193848694157,
+    "lng": 33.649688436611605
+  },
+  {
+    "dev": "Marinakis Property Developers",
+    "name": "Sun Valley Residences",
+    "area": "Marina",
+    "url": "https://marinakisproperties.vercel.app/",
+    "source": "area_fallback",
+    "lat": 34.91933848694158,
+    "lng": 33.64248843661161
+  },
+  {
+    "dev": "Marinakis Property Developers",
+    "name": "Fire Station Maisonettes",
+    "area": "Dhekelia",
+    "url": "https://marinakisproperties.vercel.app/",
+    "source": "area_fallback",
+    "lat": 34.9705,
+    "lng": 33.7
+  },
+  {
+    "dev": "Marinakis Property Developers",
+    "name": "Lakeview Villas",
+    "area": "Larnaca City Center",
+    "url": "https://marinakisproperties.vercel.app/",
+    "source": "area_fallback",
+    "lat": 34.91952348190996,
+    "lng": 33.629757152022535
+  },
+  {
+    "dev": "Marinakis Property Developers",
+    "name": "Pearl House 11",
+    "area": "Marina",
+    "url": "https://marinakisproperties.vercel.app/",
+    "source": "area_fallback",
+    "lat": 34.92275339896721,
+    "lng": 33.64174820541206
+  }
+]

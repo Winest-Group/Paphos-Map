@@ -1,5 +1,16 @@
 const PAPHOS_CENTER = [34.7720, 32.4297];
+const LARNACA_CENTER = [34.9166, 33.6304];
+const CYPRUS_CENTER = [34.85, 33.05];   // between Paphos and Larnaca
 const DEFAULT_ZOOM = 12;
+const CYPRUS_ZOOM = 10;
+
+const CITY_CENTERS = {
+    'Paphos': { center: PAPHOS_CENTER, zoom: 12 },
+    'Larnaca': { center: LARNACA_CENTER, zoom: 12 },
+    'all': { center: CYPRUS_CENTER, zoom: CYPRUS_ZOOM }
+};
+
+let ALL_AREAS = []; // {name, city} for area→city lookup
 const SIMILAR_PRICE_THRESHOLD = 0.10; // ±10%
 
 const STATUS_LABELS = {
@@ -36,7 +47,7 @@ const BUDGET_RANGES = {
     '500000+':        { min: 500000, max: Infinity }
 };
 
-const map = L.map('map', { zoomControl: false }).setView(PAPHOS_CENTER, DEFAULT_ZOOM);
+const map = L.map('map', { zoomControl: false }).setView(CYPRUS_CENTER, CYPRUS_ZOOM);
 L.control.zoom({ position: 'topleft' }).addTo(map);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -335,7 +346,7 @@ function updateProjectCount(count) {
 async function loadAreas() {
     const { data, error } = await window.sb
         .from('areas')
-        .select('name')
+        .select('name, city')
         .order('display_order');
 
     if (error) {
@@ -343,15 +354,29 @@ async function loadAreas() {
         return [];
     }
 
+    ALL_AREAS = data;
+    refreshAreaFilter('all');
+    return data;
+}
+
+function refreshAreaFilter(city) {
     const filter = document.getElementById('area-filter');
-    data.forEach(area => {
+    const current = filter.value;
+    // Keep "all" option, remove the rest
+    filter.innerHTML = '<option value="all">כל האזורים</option>';
+    const filteredAreas = city === 'all' ? ALL_AREAS : ALL_AREAS.filter(a => a.city === city);
+    filteredAreas.forEach(area => {
         const option = document.createElement('option');
         option.value = area.name;
         option.textContent = area.name;
         filter.appendChild(option);
     });
-
-    return data;
+    // Restore previous selection if still valid
+    if (current && filter.querySelector(`option[value="${current}"]`)) {
+        filter.value = current;
+    } else {
+        filter.value = 'all';
+    }
 }
 
 async function loadProjects() {
@@ -402,6 +427,7 @@ function populateDeveloperFilter(allProjects) {
 
 function getActiveFilters() {
     return {
+        city: document.getElementById('city-filter').value,
         search: document.getElementById('search-input').value.trim().toLowerCase(),
         developer: document.getElementById('developer-filter').value,
         area: document.getElementById('area-filter').value,
@@ -410,13 +436,16 @@ function getActiveFilters() {
 }
 
 function hasAnyActiveFilter(f) {
-    return f.search || f.developer !== 'all' || f.area !== 'all' || f.budget !== 'all';
+    return f.city !== 'all' || f.search || f.developer !== 'all' || f.area !== 'all' || f.budget !== 'all';
 }
 
 function applyFilters() {
     const f = getActiveFilters();
     let filtered = ALL_PROJECTS;
 
+    if (f.city !== 'all') {
+        filtered = filtered.filter(p => p.city === f.city);
+    }
     if (f.search) {
         filtered = filtered.filter(p => p.name.toLowerCase().includes(f.search));
     }
@@ -429,7 +458,7 @@ function applyFilters() {
     if (f.budget !== 'all') {
         const range = BUDGET_RANGES[f.budget];
         filtered = filtered.filter(p => {
-            if (p.price_min == null) return false; // exclude projects without price
+            if (p.price_min == null) return false;
             return p.price_min >= range.min && p.price_min < range.max;
         });
     }
@@ -439,23 +468,36 @@ function applyFilters() {
     const clearBtn = document.getElementById('clear-filters');
     clearBtn.classList.toggle('hidden', !hasAnyActiveFilter(f));
 
+    // Camera behavior:
+    // - Filter active + projects exist → fit to projects
+    // - No filter or city-only filter → use city center / Cyprus overview
     if (filtered.length > 0 && hasAnyActiveFilter(f)) {
         const bounds = L.latLngBounds(filtered.map(p => [p.lat, p.lng]));
         map.fitBounds(bounds, { padding: [60, 60], maxZoom: 15 });
     } else if (!hasAnyActiveFilter(f)) {
-        map.setView(PAPHOS_CENTER, DEFAULT_ZOOM);
+        const cityView = CITY_CENTERS[f.city] || CITY_CENTERS['all'];
+        map.setView(cityView.center, cityView.zoom);
     }
 }
 
+function onCityChange() {
+    const city = document.getElementById('city-filter').value;
+    refreshAreaFilter(city);
+    applyFilters();
+}
+
 function clearAllFilters() {
+    document.getElementById('city-filter').value = 'all';
     document.getElementById('search-input').value = '';
     document.getElementById('developer-filter').value = 'all';
     document.getElementById('area-filter').value = 'all';
     document.getElementById('budget-filter').value = 'all';
+    refreshAreaFilter('all');
     applyFilters();
 }
 
 function setupFilters() {
+    document.getElementById('city-filter').addEventListener('change', onCityChange);
     document.getElementById('search-input').addEventListener('input', applyFilters);
     document.getElementById('developer-filter').addEventListener('change', applyFilters);
     document.getElementById('area-filter').addEventListener('change', applyFilters);
